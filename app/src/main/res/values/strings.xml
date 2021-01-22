@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spurs 2021</string>
+
+    <string-array name="month">
+        <item>2021.1</item>
+        <item>2021.2</item>
+        <item>2021.3</item>
+        <item>2021.4</item>
+        <item>2021.5</item>
+        <item>2021.6</item>
+        <item>2021.7</item>
+        <item>2021.8</item>
+        <item>2021.9</item>
+        <item>2021.10</item>
+        <item>2021.11</item>
+        <item>2021.12</item>
+    </string-array>
+
+</resources>
